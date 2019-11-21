@@ -17,3 +17,5 @@
 
 ![task1-reference](./images/task2.png)
 
+------------
+Just in case you lose the link: https://github.com/wi-fighters/40-uib-boxmodel-backgroundimages-SimonSchoetz
