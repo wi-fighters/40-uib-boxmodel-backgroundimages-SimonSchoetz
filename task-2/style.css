@@ -3,3 +3,15 @@
     color: white;
     text-shadow: 1px 1px 1px black;
 }
+
+.info-1 {
+    background-image: url("assets/task2-bg.jpeg");
+}
+
+.info-2 {
+    background-image: url("assets/task2-bg1.jpeg");
+}
+
+.info-3 {
+    background-image: url("assets/task2-bg2.jpg");
+}
